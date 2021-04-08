@@ -7,3 +7,12 @@ Yes, the Rsquared value suggests that about 70% of the time are predictions will
 
 
 <img width="621" alt="Screen Shot 2021-04-08 at 4 25 15 PM" src="https://user-images.githubusercontent.com/75815560/114098482-019ceb00-9887-11eb-808d-2c41439aeb46.png">
+
+
+## Summary Statistics on Suspension Coils
+
+
+## T-Tests on Suspension Coils
+
+
+## Study Design: MechaCar vs Competition
