@@ -21,7 +21,7 @@ Yes, the Rsquared value suggests that about 70% of the time are predictions will
 <img width="353" alt="Screen Shot 2021-04-08 at 9 10 37 PM" src="https://user-images.githubusercontent.com/75815560/114118723-e0e88b80-98ae-11eb-9697-655e2ff2bd37.png">
 
 
-The summary statisitics aboce suggest that when overall the variance in the suspension coils is less than the 100 PSI cut point. However, when stratified by lot there is large difference in the variance among Lots, with Lot 3 having the highest variance.  
+The summary statisitics aboce suggest that when overall the variance in the suspension coils is less than the 100 PSI cut point. However, when stratified by lot there is large difference in the variance among Lots, with Lot 3 having the highest variance.  Vehicles from Lot 3 do not meet the current design specifications. 
 
 ## T-Tests on Suspension Coils
 
