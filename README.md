@@ -12,6 +12,16 @@ Yes, the Rsquared value suggests that about 70% of the time are predictions will
 ## Summary Statistics on Suspension Coils
 
 
+
+
+<img width="515" alt="Screen Shot 2021-04-08 at 9 10 21 PM" src="https://user-images.githubusercontent.com/75815560/114118687-d5956000-98ae-11eb-837b-4b44fa2c4530.png">
+
+
+
+<img width="353" alt="Screen Shot 2021-04-08 at 9 10 37 PM" src="https://user-images.githubusercontent.com/75815560/114118723-e0e88b80-98ae-11eb-9697-655e2ff2bd37.png">
+
+
+
 ## T-Tests on Suspension Coils
 
 
