@@ -25,5 +25,22 @@ The summary statisitics aboce suggest that when overall the variance in the susp
 
 ## T-Tests on Suspension Coils
 
+There is no significant difference between the mean PSI of this sample compared to the population mean of 1,500
+
+
+<img width="476" alt="Screen Shot 2021-04-10 at 12 03 27 PM" src="https://user-images.githubusercontent.com/75815560/114278295-c4ef0200-99f4-11eb-9cbd-93e2dc60985e.png">
+
+
 
 ## Study Design: MechaCar vs Competition
+We would select a comparable vehicle from MechaCar its competion and do a head to head comaprison of the following variables between MechaCar and its competition: 
+1. Average cost : compare means with two sample t-test
+2. Fuel Efficiency: compare means with two sample t-test, visualize differences with a box plot
+3. Horsepower: compare means with two sample t-test
+4. safety rating: compare proportions using a chi-squared test 
+5. Maintenance cost: compare means with two sample t-test
+
+Null hypothesis: no difference in the above metrics between MechaCar and its competition
+Alternative hypothesis: there is a difference the above metrics between MechaCar and its competition
+7. 
+
